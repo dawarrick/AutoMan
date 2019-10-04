@@ -2,7 +2,7 @@
 
 **AutoMan** was developed as the second group project assignment for the University of Richmond Web Development Bootcamp (May - October 2019 cohort).
 
-Github repository - https://sharpevb.github.io/AutoMan/  
+Github repository - https://github.com/dawarrick/AutoMan.git 
 Deployed at - https://automan-sequelized.herokuapp.com/
 
 ## The Who
